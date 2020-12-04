@@ -25,7 +25,7 @@ public class RockPaperScissors {
     // Converting the cpu's choice from int to string for text.
     if (cpuChoice == 1) {
       stringCpuChoice = "ROCK";
-    } else if (cpuChoice == 1) {
+    } else if (cpuChoice == 2) {
       stringCpuChoice = "PAPER";
     } else {
       stringCpuChoice = "SCISSORS";
